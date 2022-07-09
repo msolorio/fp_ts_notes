@@ -8,8 +8,6 @@
     "outDir": "dist",
     "sourceMap": true,
     "esModuleInterop": true,
-    "strict": true,
-    "alwaysStrict": true,
     "noImplicitAny": true,
     "strictNullChecks": false,
     "skipLibCheck": true,
